@@ -1,0 +1,5 @@
+1. add corporate finance factor to asset pricing model
+
+2. structural model with cliquet option pricing
+
+3. Bellman equation to the household finance
